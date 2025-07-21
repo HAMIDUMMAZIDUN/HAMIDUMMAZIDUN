@@ -20,7 +20,7 @@
 
 <p align="center">
   <a href="mailto:[ALAMAT_EMAIL_ANDA]"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="https://linkedin.com/in/[[LINK_LINKEDIN_ANDA]](https://www.linkedin.com/in/hamid-abdul-aziz-12b5a4279/)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/hamid-abdul-aziz-12b5a4279/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="[LINK_PORTOFOLIO_ANDA]"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=ionic&logoColor=white" alt="Portfolio"/></a>
 </p>
 
@@ -53,14 +53,14 @@
   📊 Statistik GitHub Saya 📊
 </h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HAMIDABDULAZIZ&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Statistik GitHub"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=HAMIDUMMAZIDUN&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Statistik GitHub"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HAMIDABDULAZIZ&layout=compact&langs_count=8&theme=dracula" alt="Bahasa Teratas"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HAMIDUMMAZIDUN&layout=compact&langs_count=8&theme=dracula" alt="Bahasa Teratas"/>
 </p>
 
 <h2 align="center">
   Contribution Graph
 </h2>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=[HAMIDABDULAZIZ]&theme=dracula" alt="Grafik Kontribusi"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HAMIDUMMAZIDUN&theme=dracula" alt="Grafik Kontribusi"/>
 </p>
