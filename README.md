@@ -3,13 +3,13 @@
 </h1>
 
 <p align="center">
-  Saya seorang <strong>Full-Stack Developer</strong> yang bersemangat dengan fokus utama pada ekosistem <strong>Laravel</strong>. 
+  Saya seorang <strong>Full-Stack Developer</strong>sekaligus<strong>Graphic Design</strong>strong> yang bersemangat dengan fokus utama pada ekosistem <strong>Laravel</strong>. 
   <br>
   Saya suka membuat aplikasi web yang bersih, efisien, dan memberikan pengalaman pengguna yang luar biasa.
 </p>
 
 <p align="center">
-  🔭 Saat ini saya sedang mengerjakan <strong>[Sebutkan proyek keren yang sedang Anda kerjakan]</strong>
+  🔭 Saat ini saya sedang mengerjakan <strong>[Proyek kecil-kecilan]</strong>
   <br>
   🌱 Saya sedang memperdalam <strong>Livewire, Inertia.js, dan arsitektur microservices</strong>
   <br>
@@ -19,7 +19,6 @@
 </p>
 
 <p align="center">
-  <a href="mailto:hamidabdulaziz36@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
   <a href="https://www.linkedin.com/in/hamid-abdul-aziz"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://www.instagram.com/hamiddesain.id/"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=ionic&logoColor=white" alt="Portfolio"/></a>
 </p>
