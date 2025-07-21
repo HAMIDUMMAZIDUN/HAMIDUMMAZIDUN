@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  Saya seorang <strong>Full-Stack Developer</strong> sekaligus <strong>Graphic Design</strong> yang bersemangat dengan fokus utama pada ekosistem <strong>Laravel</strong>. 
+  Saya seorang <strong>Full-Stack Web Developer</strong> sekaligus <strong>Graphic Design</strong> yang bersemangat dengan fokus utama pada ekosistem <strong>Laravel</strong>. 
   <br>
   Saya suka membuat aplikasi web yang bersih, efisien, dan memberikan pengalaman pengguna yang luar biasa.
 </p>
