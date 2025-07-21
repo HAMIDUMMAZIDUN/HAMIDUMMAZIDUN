@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  Saya seorang <strong>Full-Stack Developer</strong>sekaligus<strong>Graphic Design</strong>strong> yang bersemangat dengan fokus utama pada ekosistem <strong>Laravel</strong>. 
+  Saya seorang <strong>Full-Stack Developer</strong> sekaligus <strong>Graphic Design</strong> yang bersemangat dengan fokus utama pada ekosistem <strong>Laravel</strong>. 
   <br>
   Saya suka membuat aplikasi web yang bersih, efisien, dan memberikan pengalaman pengguna yang luar biasa.
 </p>
@@ -42,8 +42,6 @@
   <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>
   <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
   <a href="https://www.git-scm.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-  <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/github-original-wordmark.svg" alt="GitHub" height="50" /></a>  
-  <a href="https://code.visualstudio.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/visual-studio-code.png" alt="Visual Studio Code" height="50" /></a>  
 </p>
 
 ---
