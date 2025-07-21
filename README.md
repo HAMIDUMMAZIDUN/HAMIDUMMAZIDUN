@@ -20,7 +20,7 @@
 
 <p align="center">
   <a href="mailto:hamidabdulaziz36@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="https://linkedin.com/in/www.linkedin.com/in/hamid-abdul-aziz-12b5a4279"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/hamid-abdul-aziz"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://www.instagram.com/hamiddesain.id/"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=ionic&logoColor=white" alt="Portfolio"/></a>
 </p>
 
