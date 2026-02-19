@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hai Semua! 👋
+  Hai Semua! 
 </h1>
 
 <p align="center">
@@ -9,13 +9,13 @@
 </p>
 
 <p align="center">
-  🔭 Saat ini saya sedang mengerjakan <strong>[Proyek kecil-kecilan]</strong>
+  Saat ini saya sedang mengerjakan <strong>[Proyek kecil-kecilan]</strong>
   <br>
-  🌱 Saya sedang memperdalam <strong>Livewire, Inertia.js, dan arsitektur microservices</strong>
+  Saya sedang memperdalam <strong>Livewire, Inertia.js, dan arsitektur microservices</strong>
   <br>
-  💬 Tanya saya tentang <strong>Laravel, PHP, Vue.js, REST APIs,</strong> atau apa pun seputar pengembangan web!
+  Tanya saya tentang <strong>Laravel, PHP, Vue.js, REST APIs,</strong> atau apa pun seputar pengembangan web!
   <br>
-  ⚡ Fakta unik: Sebagian besar bug diperbaiki hanya dengan menyadari kesalahan ketik yang konyol.
+  Fakta unik: Sebagian besar bug diperbaiki hanya dengan menyadari kesalahan ketik yang konyol.
 </p>
 
 <p align="center">
@@ -30,7 +30,7 @@
 <hr>
 
 <h2 align="center">
-  🛠 Bahasa & Teknologi yang Saya Kuasai 🛠️
+  Bahasa & Teknologi yang Saya Kuasai
 </h2>
 
 <p align="center">
