@@ -80,13 +80,6 @@
 <h2 align="center">
   Statistik GitHub Saya
 </h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HAMIDUMMAZIDUN&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Statistik GitHub"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HAMIDUMMAZIDUN&layout=compact&langs_count=8&theme=dracula" alt="Bahasa Teratas"/>
-</p>
-
 <h2 align="center">
   Contribution Graph
 </h2>
