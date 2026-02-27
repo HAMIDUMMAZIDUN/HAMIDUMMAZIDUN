@@ -31,10 +31,13 @@
 
 <h3 align="center">GitHub Statistics</h3>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HAMIDUMMAZIDUN&show_icons=true&theme=radium&hide_border=true&count_private=true&v=1" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HAMIDUMMAZIDUN&layout=compact&theme=radium&hide_border=true&v=1" alt="Top Languages" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HAMIDUMMAZIDUN&theme=radium&hide_border=true" alt="GitHub Streak" />
-</p>
+<div align="center">
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=HAMIDUMMAZIDUN&show_icons=true&theme=radium&hide_border=true&v=2)](https://github.com/HAMIDUMMAZIDUN)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HAMIDUMMAZIDUN&layout=compact&theme=radium&hide_border=true&v=2)](https://github.com/HAMIDUMMAZIDUN)
+
+<br/>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HAMIDUMMAZIDUN&theme=radium&hide_border=true)](https://github.com/HAMIDUMMAZIDUN)
+
+</div>
