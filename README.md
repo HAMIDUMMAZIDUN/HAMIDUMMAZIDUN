@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm HAMID</h1>
+<h1 align="center">Hi, I'm HAMID</h1>
 <h3 align="center">A passionate Web Developer building robust systems with Laravel</h3>
 
 <p align="left">
@@ -17,7 +17,6 @@
 
 <h3 align="center">Languages-Frameworks-Tools</h3>
 <p align="center">
-  <a href="https://laravel.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" width="40" height="40" alt="Laravel" /></a>
   <a href="https://www.php.net" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40" alt="PHP" /></a>
   <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL" /></a>
   <a href="https://www.arduino.cc/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" width="40" height="40" alt="Arduino" /></a>
@@ -26,18 +25,14 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" /></a>
   <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git" /></a>
 </p>
-
 <br />
-
-<h3 align="center">GitHub Statistics</h3>
-
-<div align="center">
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=HAMIDUMMAZIDUN&show_icons=true&theme=radium&hide_border=true&v=2)](https://github.com/HAMIDUMMAZIDUN)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HAMIDUMMAZIDUN&layout=compact&theme=radium&hide_border=true&v=2)](https://github.com/HAMIDUMMAZIDUN)
-
-<br/>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HAMIDUMMAZIDUN&theme=radium&hide_border=true)](https://github.com/HAMIDUMMAZIDUN)
-
-</div>
+<h3 align="center">Modern GitHub Statistics</h3>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HAMIDUMMAZIDUN&theme=radical" alt="Profile Details" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HAMIDUMMAZIDUN&theme=radical" alt="Stats" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HAMIDUMMAZIDUN&theme=radical&utcOffset=7" alt="Productive Time" />
+</p>
